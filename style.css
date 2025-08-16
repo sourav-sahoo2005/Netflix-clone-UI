@@ -236,7 +236,7 @@ input::placeholder {
 
 .litex {
     position: relative;
-    margin-right: 63%;
+    margin-left:10%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     z-index: 10;
     color: white;
@@ -249,9 +249,9 @@ input::placeholder {
 /* more reason to join part */
 
 
-#moretext {
+/* #moretext {
     margin-left: 105px;
-}
+} */
 
 .more {
     justify-content: space-between;
@@ -290,11 +290,11 @@ input::placeholder {
 
 /* faq part */
 
-
+/* 
 #moretext-faq {
     margin-left: 138px;
 
-}
+} */
 
 .faq {
     height: 80px;
